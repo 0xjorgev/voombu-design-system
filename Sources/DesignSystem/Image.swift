@@ -23,6 +23,7 @@ public extension Image {
         public static let onboarding1 = loadImageFromBundle(name: "onboarding1")
         public static let onboarding2 = loadImageFromBundle(name: "onboarding2")
         public static let onboarding3 = loadImageFromBundle(name: "onboarding3")
+        public static let google = loadImageFromBundle(name: "google")
         public static let loginBackground = loadImageFromBundle(name: "loginBackground")
         public static let spePlaceholder = loadImageFromBundle(name: "spePlaceholder")
     }
